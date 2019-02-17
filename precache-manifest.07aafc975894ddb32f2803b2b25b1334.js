@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/quakka-quakka/static/js/runtime~main.a96f664a.js"
   },
   {
-    "revision": "64fff849612b08674da99e26a51090b2",
+    "revision": "b06afac2273a0e0c2ad7c70b7ed88b3f",
     "url": "/quakka-quakka/index.html"
   }
 ];
