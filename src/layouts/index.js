@@ -1,5 +1,6 @@
 export { default as AddKit } from './AddKit'
 export { default as Brand } from './Brand'
+export { default as BonusArea } from './BonusArea'
 export { default as Content } from './Content'
 export { default as DataList } from './DataList'
 export { default as DownloadKit } from './DownloadKit'
